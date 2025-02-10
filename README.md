@@ -13,3 +13,4 @@ TypeScriptの検証環境
 - [ ] sort()
 - [ ] flat()
 - [ ] flatMap()
+- [ ] ジェネリクス関連

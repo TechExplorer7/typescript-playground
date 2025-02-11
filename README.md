@@ -11,6 +11,6 @@ TypeScriptの検証環境
 - [ ] fill()
 - [ ] slice()
 - [ ] sort()
-- [ ] flat()
-- [ ] flatMap()
+- [x] flat()
+- [x] flatMap()
 - [ ] ジェネリクス関連
